@@ -44,21 +44,6 @@
 
 ## 💼Projects
 
-- 🔍 **TrustScore AI**  
-  A platform that detects the credibility of Arabic online content using real-time web mining + AI.
-
-- 🧠 **Smart Career Platform**  
-  Matches job seekers to career paths based on CV analysis and market trends using ML/NLP.
-
-- 📈 **Social Behavior Analyzer**  
-  Detects emotional and behavioral patterns in social media posts using AI.
-
-- 🎨 **AI Art Generator (Arabic)**  
-  Converts Arabic prompts into stunning AI-generated artworks.
-
-- ⚙️ **Algorithm Visualizer**  
-  Interactive web app to learn algorithms visually and intuitively.
-
 ---
 
 ## 📬 Contact Me
