@@ -1,12 +1,14 @@
+<div align="center" dir="auto">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Coding GIF"/>
+  <h2>عمرو الرعوي</h2>
+  <p><b>طالب علوم الحاسوب وتكنولوجيا المعلومات 💻 | عاشق الذكاء الاصطناعي 🤖 | من اليمن 🇾🇪</b></p>
+</div>
+
 <h1 align="center">Hi there, I'm Amro Khaled 👋</h1>
 <p align="center">
   <strong>CS & IT Student | AI Explorer 🤖 | Data Mining Enthusiast | Let's build the future 🚀</strong>
 </p>
-<div align="center" dir="auto">
-  <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-target="animated-image.originalLink"><img height="150" src="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; height: auto; max-height: 150px; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" target="_blank">
-        </div>
+
 
 ### 👨‍💻 About Me:
 - 🎓 Final year Computer Science & IT student  
