@@ -1,7 +1,6 @@
 <div align="center" dir="auto">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Coding GIF"/>
   <h2>عمرو الرعوي</h2>
-  <p><b>طالب علوم الحاسوب وتكنولوجيا المعلومات 💻 | عاشق الذكاء الاصطناعي 🤖 | من اليمن 🇾🇪</b></p>
 </div>
 
 <h1 align="center">Hi there, I'm Amro Khaled 👋</h1>
