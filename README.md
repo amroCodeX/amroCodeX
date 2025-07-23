@@ -37,7 +37,7 @@
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/></a>
 </p>
 
-<hr style="height:2px;border-width:0;color:#007bff;background-color:#007bff">
+
 
 
 ---
