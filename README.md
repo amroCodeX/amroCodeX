@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi there, I'm Amro Khaled 👋</h1>
 <p align="center">
-  <strong>CS & IT Student | AI Explorer 🤖 | Data Mining Enthusiast | Let's build the future 🚀</strong>
+  <strong>CS & IT Student || Let's build the future 🚀</strong>
 </p>
 
 ### 👨‍💻 About Me:
