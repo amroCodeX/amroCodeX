@@ -1,13 +1,10 @@
 <div align="center" dir="auto">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Coding GIF"/>
-  <h2>عمرو الرعوي</h2>
 </div>
-
 <h1 align="center">Hi there, I'm Amro Khaled 👋</h1>
 <p align="center">
   <strong>CS & IT Student | AI Explorer 🤖 | Data Mining Enthusiast | Let's build the future 🚀</strong>
 </p>
-
 
 ### 👨‍💻 About Me:
 - 🎓 Final year Computer Science & IT student  
