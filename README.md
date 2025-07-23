@@ -5,12 +5,11 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 I'm a Computer Science & IT student passionate about AI and smart systems.
-- ⚡ I enjoy solving real-world problems with elegant code and intelligent solutions.
-- 📚 I love working on projects involving data analysis, algorithmic logic, and UI design.
-
----
+### 👨‍💻 About Me:
+- 🎓 Final year Computer Science & IT student  
+- 🤖 AI explorer & data enthusiast  
+- 💻 Building smart solutions using real-world problems  
+- 📚 Always learning something new  
 
 ---
 
@@ -40,18 +39,10 @@
 
 <hr style="height:2px;border-width:0;color:#007bff;background-color:#007bff">
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amroCodeX&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=amroCodeX&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
-## 💼 Featured Projects
+## 💼Projects
 
 - 🔍 **TrustScore AI**  
   A platform that detects the credibility of Arabic online content using real-time web mining + AI.
@@ -73,10 +64,10 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/your_number"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amralraawi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/9677377689"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/amr_ak5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <!-- <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 </p>
 
 ---
