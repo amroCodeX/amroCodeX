@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 Final year Computer Science & IT student  
-- 🤖 AI explorer & data enthusiast  
+- 🤖 AI explorer data mining, and smart technologies
 - 💻 Building smart solutions using real-world problems  
 - 📚 Always learning something new  
 
